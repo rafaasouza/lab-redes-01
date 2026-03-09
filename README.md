@@ -47,9 +47,9 @@ Printer[Impressora de Rede]
 
 WAN --> |Porta WAN| Router
 
-Rounter --> |LAN 1| PC1
-Rounter --> |LAN 2| PC2
-Rounter --> |LAN 3| PC3
-Rounter --> |LAN 4| Printer
+Router --> |LAN 1| PC1
+Router --> |LAN 2| PC2
+Router --> |LAN 3| PC3
+Router --> |LAN 4| Printer
 
 ```
